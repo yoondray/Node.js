@@ -1,0 +1,9 @@
+node --version
+npm --version
+npm install -g express-generator
+express example01
+  # to solve the error (Delete bottom and open cmd by System32 mode)
+  C:\Users\사용자명\AppData\Roaming\npm
+  C:\Users\사용자명\AppData\Roaming\npm-cache
+npm install
+npm install -g nodemon
